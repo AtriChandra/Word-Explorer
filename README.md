@@ -1,4 +1,4 @@
-# 📚 Dictionary App
+# 📚 Word Explorer
 
 A simple Dictionary App that allows users to search for words and get detailed information, including part of speech, meaning, antonyms, and synonyms. The app uses the Dictionary API to fetch and display word definitions.
 
